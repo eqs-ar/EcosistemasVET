@@ -40,7 +40,11 @@
             "group": 27,
             "nodesize": 272.45
         },
-               
+        {
+            "name": "Julia",
+            "group": 27,
+            "nodesize": 272.45
+        },       
         
         
         
@@ -3117,7 +3121,16 @@
             "target": "r",
             "value": 42.7216684588
         },
-        
+        {
+            "source": "DataAnalitic",
+            "target": "Observable",
+            "value": 42.7216684588
+        },
+        {
+            "source": "DataAnalitic",
+            "target": "Julia",
+            "value": 42.7216684588
+        },
         
         
                 
