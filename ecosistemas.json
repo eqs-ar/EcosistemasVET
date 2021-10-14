@@ -14,7 +14,24 @@
             "name": "web3",
             "group": 383,
             "nodesize": 272.45
-        },        
+        },    
+        {
+            "name": "NFT",
+            "group": 383,
+            "nodesize": 272.45
+        },
+        {
+            "name": "CurrencyToken",
+            "group": 383,
+            "nodesize": 272.45
+        },  
+        
+        
+        
+        
+        
+        
+        
         {
             "name": "html",
             "group": 6,
@@ -3045,8 +3062,8 @@
         }, 
         
                 {
-            "source": "ios",
-            "target": "xcode",
+            "source": "CurrencyToken",
+            "target": "DeFi",
             "value": 46.3650907739
         },
         
