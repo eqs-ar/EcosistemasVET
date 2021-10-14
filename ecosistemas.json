@@ -1,6 +1,11 @@
 {
     "nodes": [
         {
+            "name": "web3",
+            "group": 383,
+            "nodesize": 272.45
+        },        
+        {
             "name": "html",
             "group": 6,
             "nodesize": 272.45
