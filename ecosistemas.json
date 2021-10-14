@@ -45,7 +45,16 @@
             "group": 27,
             "nodesize": 272.45
         },       
-        
+        {
+            "name": "Jupyter",
+            "group": 27,
+            "nodesize": 272.45
+        },
+        {
+            "name": "Anaconda",
+            "group": 27,
+            "nodesize": 272.45
+        },
         
         
         
@@ -3131,8 +3140,26 @@
             "target": "Julia",
             "value": 42.7216684588
         },
-        
-        
+        {
+            "source": "Jupyter",
+            "target": "Julia",
+            "value": 42.7216684588
+        },
+        {
+            "source": "Jupyter",
+            "target": "r",
+            "value": 42.7216684588
+        },
+        {
+            "source": "Jupyter",
+            "target": "python",
+            "value": 42.7216684588
+        },
+        {
+            "source": "Anaconda",
+            "target": "Jupyter",
+            "value": 42.7216684588
+        },
                 
         {
             "source": "json",
