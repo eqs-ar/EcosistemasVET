@@ -3061,12 +3061,17 @@
             "value": 46.3650907739
         }, 
         
-                {
+        {
             "source": "CurrencyToken",
             "target": "DeFi",
             "value": 46.3650907739
         },
-        
+        {
+            "source": "web3",
+            "target": "DeFi",
+            "value": 46.3650907739
+        },
+                
         {
             "source": "json",
             "target": "xml",
