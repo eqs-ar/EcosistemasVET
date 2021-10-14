@@ -1,6 +1,16 @@
 {
     "nodes": [
         {
+            "name": "SmartContract",
+            "group": 383,
+            "nodesize": 272.45
+        },
+        {
+            "name": "DeFi",
+            "group": 383,
+            "nodesize": 272.45
+        },
+        {
             "name": "web3",
             "group": 383,
             "nodesize": 272.45
