@@ -3067,10 +3067,16 @@
             "value": 46.3650907739
         },
         {
-            "source": "web3",
-            "target": "DeFi",
+            "source": "DeFi",
+            "target": "web3",
             "value": 46.3650907739
         },
+        {
+            "source": "DeFi",
+            "target": "NFT",
+            "value": 46.3650907739
+        },        
+        
                 
         {
             "source": "json",
