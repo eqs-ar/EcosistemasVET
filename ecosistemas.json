@@ -3096,11 +3096,29 @@
             "value": 42.7216684588
         },
         
-          {
+        {
             "source": "DataAnalitic",
-            "target": "Observable",
+            "target": "javascript",
             "value": 42.7216684588
-        },        
+        },  
+        {
+            "source": "DataAnalitic",
+            "target": "python",
+            "value": 42.7216684588
+        },
+        {
+            "source": "DataAnalitic",
+            "target": "javascript",
+            "value": 42.7216684588
+        },
+        
+        {
+            "source": "DataAnalitic",
+            "target": "r",
+            "value": 42.7216684588
+        },
+        
+        
         
                 
         {
