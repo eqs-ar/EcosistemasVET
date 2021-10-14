@@ -28,6 +28,19 @@
         
         
         
+ 
+        
+        {
+            "name": "DataAnalitic",
+            "group": 27,
+            "nodesize": 272.45
+        },
+         {
+            "name": "Observable",
+            "group": 27,
+            "nodesize": 272.45
+        },
+               
         
         
         
@@ -3075,6 +3088,18 @@
             "source": "DeFi",
             "target": "NFT",
             "value": 46.3650907739
+        },
+        
+          {
+            "source": "json",
+            "target": "Observable",
+            "value": 42.7216684588
+        },
+        
+          {
+            "source": "DataAnalitic",
+            "target": "Observable",
+            "value": 42.7216684588
         },        
         
                 
